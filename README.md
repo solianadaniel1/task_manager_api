@@ -21,6 +21,9 @@ npm init -y
 Run the following command to install dependencies:
 ```bash
 npm install express mongoose dotenv cors nodemon
+
+npm install jsonwebtoken dotenv bcryptjs
+
 ```
 
 ### Explanation of Dependencies:
