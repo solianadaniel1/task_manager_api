@@ -15,9 +15,14 @@ A simple task manager API built with Node.js, Express, and MongoDB. This API all
 Run the following command to create a `package.json` file:
 ```bash
 npm init -y
+```
 
+### Step 2: Install dependencies
+Run the following command to install dependencies:
+```bash
 npm install express mongoose dotenv cors nodemon
 ```
+
 ### Explanation of Dependencies:
 - express → Web framework for building the API.
 - mongoose → ORM for interacting with MongoDB.
